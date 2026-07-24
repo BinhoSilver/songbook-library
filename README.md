@@ -20,13 +20,13 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 ## 🇧🇷 MPB / Folk
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Uirapuru | Nilo Amaro e Seus Cantores de Ébano | [Cifra Club](https://www.cifraclub.com.br/nilo-amaro-seus-cantores-de-ebano/uirapuru/#tabs=false&instrument=ukulele) |
 
 ## 🤠 Sertanejo
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Fotos | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/fotos/#tabs=false&instrument=ukulele) |
 | Vida Boa | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/vida-boa/simplificada.html#tabs=false&instrument=ukulele&key=8) |
 | Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
@@ -38,7 +38,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 ## 🤠 Country
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Big Iron | Marty Robbins | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) |
 
 ---
@@ -48,13 +48,13 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 ## 🤠 Country
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Take Me Home, Country Roads | John Denver | [Ukutabs](https://ukutabs.com/j/john-denver/take-me-home-country-roads/) |
 
 ## 🤘 Rock
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | What a Wonderful World | Ramones | [Cifra Club](https://www.cifraclub.com.br/ramones/wonderful-world/#tabs=false&instrument=ukulele&key=7) |
 | Numb | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/numb/) |
 | Last Kiss | Pearl Jam | [Cifra Club](https://www.cifraclub.com.br/pearl-jam/last-kiss/#tabs=false&instrument=ukulele) |
@@ -69,14 +69,14 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 ## 🤠 Sertanejo
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) |
 | Choram as Rosas | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/choram-as-rosas/simplificada.html#tabs=false&instrument=ukulele) |
 
 ## 📺 Desenhos
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|------|
+|--------|---------|:-------:|------|
 | Temos que Pegar | Pokémon | [Cifra Club](https://www.cifraclub.com.br/pokemon/temos-que-pegar/#tabs=false&instrument=ukulele) |
 
 ---
@@ -84,6 +84,6 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 # 🥁 Quero aprender a batida
 
 | Música | Artista | Link || Domínio |
-|--------|---------|------|
+|--------|---------|:-------:|------|
 | Snuff | Slipknot | [Ukutabs](https://ukutabs.com/s/slipknot/snuff/) |
 | Hurt | Johnny Cash | [Ukutabs](https://ukutabs.com/j/johnny-cash/hurt/) |
