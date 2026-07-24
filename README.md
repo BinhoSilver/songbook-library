@@ -8,8 +8,8 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 ## 🤘 Rock
 
-| Música | Artista | Link |
-|--------|---------|------|
+| Música | Artista | Domínio | Link |
+|--------|---------|:-------:|------|
 | Leave Out All the Rest | Linkin Park | 🟩🟩🟩🟩🟩 **100%** |[Ukutabs](https://ukutabs.com/l/linkin-park/leave-out-all-the-rest/) |
 | You're Gonna Go Far, Kid | The Offspring | [Ukutabs](https://ukutabs.com/t/the-offspring/youre-gonna-go-far-kid/) |
 | The Wanderer | Dion | [Ukutabs](https://ukutabs.com/d/dion-d/the-wanderer/) *(essa cifra parece errada)* |
