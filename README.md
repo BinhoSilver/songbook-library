@@ -16,6 +16,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Can't Help Falling in Love | Twenty One Pilots | [Ukutabs](https://ukutabs.com/t/twenty-one-pilots/cant-help-falling-in-love/) |🟩🟩🟩🟩⬜ **80%** |
 | Segredos | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/segredos/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Gita | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/gita/simplificada.html#tabs=false&instrument=ukulele&key=10) |
+| Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 
 ## 🇧🇷 MPB / Folk
 
