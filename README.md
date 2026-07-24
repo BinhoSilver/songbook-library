@@ -27,7 +27,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
-| Fotos | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/fotos/#tabs=false&instrument=ukulele) |
+| Fotos | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/fotos/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Vida Boa | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/vida-boa/simplificada.html#tabs=false&instrument=ukulele&key=8) |
 | Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
 | Telefone Mudo | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/telefone-mudo/#tabs=false&instrument=ukulele) |
