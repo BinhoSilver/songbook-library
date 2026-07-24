@@ -59,7 +59,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
-| What a Wonderful World | Ramones | [Cifra Club](https://www.cifraclub.com.br/ramones/wonderful-world/#tabs=false&instrument=ukulele&key=7) |
+| What a Wonderful World | Ramones | [Cifra Club](https://www.cifraclub.com.br/ramones/wonderful-world/#tabs=false&instrument=ukulele&key=7) | 🟩🟩⬜⬜⬜ **40%** |
 | Numb | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/numb/) |
 | Last Kiss | Pearl Jam | [Cifra Club](https://www.cifraclub.com.br/pearl-jam/last-kiss/#tabs=false&instrument=ukulele) |
 | House of the Rising Sun | The Animals | [Ukutabs](https://ukutabs.com/t/the-animals/house-of-the-rising-sun/) | 🟩🟩🟩⬜⬜ **60%** |
