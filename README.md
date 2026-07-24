@@ -12,8 +12,8 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 |--------|---------|:-------:|------|
 | Leave Out All the Rest | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/leave-out-all-the-rest/) | 🟩🟩🟩🟩🟩 **100%** |
 | You're Gonna Go Far, Kid | The Offspring | [Ukutabs](https://ukutabs.com/t/the-offspring/youre-gonna-go-far-kid/) | 🟩🟩🟩🟩🟩 **100%** |
-| The Wanderer | Dion | [Ukutabs](https://ukutabs.com/d/dion-d/the-wanderer/) *(essa cifra parece errada)* |
-| Can't Help Falling in Love | Twenty One Pilots | [Ukutabs](https://ukutabs.com/t/twenty-one-pilots/cant-help-falling-in-love/) |
+| The Wanderer | Dion | [Ukutabs](https://ukutabs.com/d/dion-d/the-wanderer/) *(essa cifra parece errada)* | 
+| Can't Help Falling in Love | Twenty One Pilots | [Ukutabs](https://ukutabs.com/t/twenty-one-pilots/cant-help-falling-in-love/) |🟩🟩🟩🟩⬜ **80%** |
 | Segredos | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/segredos/simplificada.html#tabs=false&instrument=ukulele) |
 
 ## 🇧🇷 MPB / Folk
