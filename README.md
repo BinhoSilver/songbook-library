@@ -39,7 +39,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
-| Big Iron | Marty Robbins | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) |
+| Big Iron | Marty Robbins | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 
 ---
 
