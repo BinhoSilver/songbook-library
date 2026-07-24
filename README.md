@@ -32,7 +32,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
 | Telefone Mudo | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/telefone-mudo/#tabs=false&instrument=ukulele) |
 | Tristeza do Jeca | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/tristeza-do-jeca/#tabs=false&instrument=ukulele&key=3) |
-| Estrada da Vida | Milionário & José Rico | [Cifra Club](https://www.cifraclub.com.br/milionario-e-jose-rico/estrada-da-vida/#tabs=false&instrument=ukulele) |
+| Estrada da Vida | Milionário & José Rico | [Cifra Club](https://www.cifraclub.com.br/milionario-e-jose-rico/estrada-da-vida/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Página de Amigos | Chitãozinho & Xororó | [Cifra Club](https://www.cifraclub.com.br/chitaozinho-e-xororo/pagina-de-amigos/#tabs=false&instrument=ukulele) |
 
 ## 🤠 Country
