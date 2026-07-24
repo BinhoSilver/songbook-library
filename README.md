@@ -19,7 +19,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 ## 🇧🇷 MPB / Folk
 
-| Música | Artista | Link || Domínio |
+| Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
 | Uirapuru | Nilo Amaro e Seus Cantores de Ébano | [Cifra Club](https://www.cifraclub.com.br/nilo-amaro-seus-cantores-de-ebano/uirapuru/#tabs=false&instrument=ukulele) |
 
