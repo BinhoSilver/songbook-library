@@ -67,7 +67,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Malandragem | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/malandragem/#tabs=false&instrument=ukulele) |
 | Meu Erro | Os Paralamas do Sucesso | [Cifra Club](https://www.cifraclub.com.br/os-paralamas-do-sucesso/meu-erro/simplificada.html#tabs=false&instrument=ukulele) |
 | Robocop Gay | Mamonas Assassinas | [Cifra Club](https://www.cifraclub.com.br/mamonas-assassinas/robocop-gay/#instrument=ukulele&tabs=false) |
-| Disco Voador | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/disco-voador/#tabs=false&instrument=ukulele) |
+| Disco Voador | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/disco-voador/#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
 | Meu Amigo Pedro | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/meu-amigo-pedro/#instrument=ukulele&tabs=false) |
 | Metamorfose Ambulante | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/metamorfose-ambulante/#tabs=false&instrument=ukulele&key=3) |
 
