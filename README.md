@@ -62,7 +62,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | What a Wonderful World | Ramones | [Cifra Club](https://www.cifraclub.com.br/ramones/wonderful-world/#tabs=false&instrument=ukulele&key=7) |
 | Numb | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/numb/) |
 | Last Kiss | Pearl Jam | [Cifra Club](https://www.cifraclub.com.br/pearl-jam/last-kiss/#tabs=false&instrument=ukulele) |
-| House of the Rising Sun | The Animals | [Ukutabs](https://ukutabs.com/t/the-animals/house-of-the-rising-sun/) |
+| House of the Rising Sun | The Animals | [Ukutabs](https://ukutabs.com/t/the-animals/house-of-the-rising-sun/) | 🟩🟩🟩⬜⬜ **60%** |
 | Hotel California | Eagles | [Ukutabs](https://ukutabs.com/e/eagles/hotel-california-2/) |
 | Malandragem | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/malandragem/#tabs=false&instrument=ukulele) |
 | Meu Erro | Os Paralamas do Sucesso | [Cifra Club](https://www.cifraclub.com.br/os-paralamas-do-sucesso/meu-erro/simplificada.html#tabs=false&instrument=ukulele) |
