@@ -15,6 +15,8 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | The Wanderer | Dion | [Ukutabs](https://ukutabs.com/d/dion-d/the-wanderer/) *(essa cifra parece errada)* | 
 | Can't Help Falling in Love | Twenty One Pilots | [Ukutabs](https://ukutabs.com/t/twenty-one-pilots/cant-help-falling-in-love/) |🟩🟩🟩🟩⬜ **80%** |
 | Segredos | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/segredos/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
+| Eu Quero Sempre Mais | Pitty | [Cifra Club](https://www.cifraclub.com.br/pitty/eu-quero-sempre-mais/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
+| Na Sua Estante | Pitty | [Cifra Club](https://www.cifraclub.com.br/pitty/na-sua-estante/simplificada.html#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩🟩 **100%** |
 | Gita | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/gita/simplificada.html#tabs=false&instrument=ukulele&key=10) |
 | Capim Guiné | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/capim-guine/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
 | Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
