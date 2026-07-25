@@ -36,6 +36,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
+| Fuscão Preto | Trio Parada Dura | [Cifra Club](https://www.cifraclub.com.br/trio-parada-dura/fuscao-preto/#tabs=false&instrument=ukulele&key=10) | 🟩🟩🟩🟩🟩 **100%** |
 | Fotos | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/fotos/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Vida Boa | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/vida-boa/simplificada.html#tabs=false&instrument=ukulele&key=8) |
 | Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
