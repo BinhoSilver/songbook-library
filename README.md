@@ -22,6 +22,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Californication | Red Hot Chili Peppers | [Cifra Club](https://www.cifraclub.com.br/red-hot-chili-peppers/californication/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Otherside | Red Hot Chili Peppers | [Cifra Club](https://www.cifraclub.com.br/red-hot-chili-peppers/otherside/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
+| Welcome To My Life | Simple Plan | [Ukutabs](https://www.cifraclub.com.br/simple-plan/welcome-to-my-life/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
 
 
 
