@@ -71,7 +71,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | House of the Rising Sun | The Animals | [Ukutabs](https://ukutabs.com/t/the-animals/house-of-the-rising-sun/) | 🟩🟩🟩⬜⬜ **60%** |
 | Hotel California | Eagles | [Ukutabs](https://ukutabs.com/e/eagles/hotel-california-2/) |
 | Malandragem | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/malandragem/#tabs=false&instrument=ukulele) |
-| Meu Erro | Os Paralamas do Sucesso | [Cifra Club](https://www.cifraclub.com.br/os-paralamas-do-sucesso/meu-erro/simplificada.html#tabs=false&instrument=ukulele) |
+| Meu Erro | Os Paralamas do Sucesso | [Cifra Club](https://www.cifraclub.com.br/os-paralamas-do-sucesso/meu-erro/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
 | Robocop Gay | Mamonas Assassinas | [Cifra Club](https://www.cifraclub.com.br/mamonas-assassinas/robocop-gay/#instrument=ukulele&tabs=false) |
 | Disco Voador | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/disco-voador/#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
 | Meu Amigo Pedro | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/meu-amigo-pedro/#instrument=ukulele&tabs=false) |
