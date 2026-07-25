@@ -81,9 +81,9 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
-| Choram as Rosas | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/choram-as-rosas/simplificada.html#tabs=false&instrument=ukulele) |
-| O Grande Amor da Minha Vida | Gian e Giovani | [Cifra Club](https://www.cifraclub.com.br/gian-e-giovanni/o-grande-amor-da-minha-vida/#tabs=false&instrument=ukulele) |
-| Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) |
+| Choram as Rosas | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/choram-as-rosas/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
+| O Grande Amor da Minha Vida | Gian e Giovani | [Cifra Club](https://www.cifraclub.com.br/gian-e-giovanni/o-grande-amor-da-minha-vida/#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
+| Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) | |🟩🟩🟩🟩⬜ **80%** |
 
 ## 📺 Desenhos
 
