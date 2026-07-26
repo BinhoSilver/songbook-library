@@ -62,6 +62,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
+| Ring Of Fire | Johnny Cash | [Cifra Club](https://www.cifraclub.com.br/johnny-cash/ring-of-fire/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
 
 
 ## 🤘 Rock
