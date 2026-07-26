@@ -42,6 +42,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Vida Boa | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/vida-boa/simplificada.html#tabs=false&instrument=ukulele&key=8) |
 | Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
 | Telefone Mudo | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/telefone-mudo/#tabs=false&instrument=ukulele) |
+| Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩⬜ **80%** |
 | Tristeza do Jeca | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/tristeza-do-jeca/#tabs=false&instrument=ukulele&key=3) |
 | Estrada da Vida | Milionário & José Rico | [Cifra Club](https://www.cifraclub.com.br/milionario-e-jose-rico/estrada-da-vida/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Página de Amigos | Chitãozinho & Xororó | [Cifra Club](https://www.cifraclub.com.br/chitaozinho-e-xororo/pagina-de-amigos/#tabs=false&instrument=ukulele) |  🟩🟩🟩🟩🟩 **100%** |
@@ -84,7 +85,6 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 |--------|---------|:-------:|------|
 | Choram as Rosas | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/choram-as-rosas/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
 | O Grande Amor da Minha Vida | Gian e Giovani | [Cifra Club](https://www.cifraclub.com.br/gian-e-giovanni/o-grande-amor-da-minha-vida/#tabs=false&instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
-| Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) | |🟩🟩🟩🟩⬜ **80%** |
 
 ## 📺 Desenhos
 
