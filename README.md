@@ -40,7 +40,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Fuscão Preto | Trio Parada Dura | [Cifra Club](https://www.cifraclub.com.br/trio-parada-dura/fuscao-preto/#tabs=false&instrument=ukulele&key=10) | 🟩🟩🟩🟩🟩 **100%** |
 | Fotos | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/fotos/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Vida Boa | Victor & Leo | [Cifra Club](https://www.cifraclub.com.br/victor-leo/vida-boa/simplificada.html#tabs=false&instrument=ukulele&key=8) |
-| Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) |
+| Ainda Ontem Chorei de Saudade | João Mineiro & Marciano | [Cifra Club](https://www.cifraclub.com.br/joao-mineiro-e-marciano/ainda-ontem-chorei-de-saudade/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Telefone Mudo | Bruno & Marrone | [Cifra Club](https://www.cifraclub.com.br/bruno-e-marrone/telefone-mudo/#tabs=false&instrument=ukulele) |
 | Escolta de Vagalumes | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/escolta-de-vagalumes/#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩⬜ **80%** |
 | Tristeza do Jeca | Sérgio Reis | [Cifra Club](https://www.cifraclub.com.br/sergio-reis/tristeza-do-jeca/#tabs=false&instrument=ukulele&key=3) |
