@@ -19,7 +19,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Na Sua Estante | Pitty | [Cifra Club](https://www.cifraclub.com.br/pitty/na-sua-estante/simplificada.html#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩🟩 **100%** |
 | Gita | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/gita/simplificada.html#tabs=false&instrument=ukulele&key=10) |
 | Capim Guiné | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/capim-guine/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
-| Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
+| Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/maluco-beleza/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Californication | Red Hot Chili Peppers | [Cifra Club](https://www.cifraclub.com.br/red-hot-chili-peppers/californication/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Otherside | Red Hot Chili Peppers | [Cifra Club](https://www.cifraclub.com.br/red-hot-chili-peppers/otherside/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Welcome To My Life | Simple Plan | [Ukutabs](https://www.cifraclub.com.br/simple-plan/welcome-to-my-life/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
