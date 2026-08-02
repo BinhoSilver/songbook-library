@@ -10,7 +10,8 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
-| Like a Stone | Audioslave | [Cifra Club](https://www.cifraclub.com.br/audioslave/like-stone/simplificada.html?instrument=ukulele&keyShape=3) | 🟩🟩🟩🟩⬜ **80%** |
+| Like a Stone | Audioslave | [Cifra Club](https://www.cifraclub.com.br/audioslave/like-stone/simplificada.html?instrument=ukulele&keyShape=3) | 🟩🟩🟩🟩⬜ **80%** 
+| American Jesus | Bad Religion | [Cifra Club](https://www.cifraclub.com.br/bad-religion/american-jesus/acustica.html?instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** ||
 | Basket Case | Green Day | [Cifra Club](https://www.cifraclub.com.br/green-day/basket-case/simplificada.html?instrument=ukulele&keyShape=3) | 🟩🟩🟩🟩🟩 **100%** |
 | Leave Out All the Rest | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/leave-out-all-the-rest/) | 🟩🟩🟩🟩🟩 **100%** |
 | You're Gonna Go Far, Kid | The Offspring | [Ukutabs](https://ukutabs.com/t/the-offspring/youre-gonna-go-far-kid/) | 🟩🟩🟩🟩🟩 **100%** |
