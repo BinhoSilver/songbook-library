@@ -61,6 +61,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 ##  Desenho/Anime
 
 | Música | Artista | Link | Domínio |
+|--------|---------|:-------:|------|
 | Brave Heart | Digimon | [Cifra Club](https://www.cifraclub.com.br/ayumi-hamasaki/brave-heart/?instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
 
 ---
