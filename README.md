@@ -58,7 +58,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Big Iron | Marty Robbins | [Cifra Club](https://www.cifraclub.com.br/robbins-marty/big-iron/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Take Me Home, Country Roads | John Denver | [Cifra Club](https://www.cifraclub.com.br/john-denver/take-me-home-country-roads/#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩🟩 **100%** |
 
-##  Desenho/Anime
+## 📺 Desenho/Anime
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
