@@ -19,6 +19,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 | Segredos | Frejat | [Cifra Club](https://www.cifraclub.com.br/frejat/segredos/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Eu Quero Sempre Mais | Pitty | [Cifra Club](https://www.cifraclub.com.br/pitty/eu-quero-sempre-mais/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
 | Na Sua Estante | Pitty | [Cifra Club](https://www.cifraclub.com.br/pitty/na-sua-estante/simplificada.html#tabs=false&instrument=ukulele&key=3) | 🟩🟩🟩🟩🟩 **100%** |
+| Spiderman | Ramones | [ULTRA GUITAR](https://tabs.ultimate-guitar.com/tab/ramones/spiderman-ukulele-1348219) | 🟩🟩⬜⬜⬜ **40%** |
 | Gita | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/gita/simplificada.html#tabs=false&instrument=ukulele&key=10) |
 | Capim Guiné | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/capim-guine/simplificada.html#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩⬜ **80%** |
 | Maluco Beleza | Raul Seixas | [Cifra Club](https://www.cifraclub.com.br/raul-seixas/maluco-beleza/#tabs=false&instrument=ukulele) | 🟩🟩🟩🟩🟩 **100%** |
@@ -71,6 +72,7 @@ Meu repertório de músicas para violão, ukulele e outros instrumentos.
 
 | Música | Artista | Link | Domínio |
 |--------|---------|:-------:|------|
+| Saturday Night | Misfits | [Cifra Club](https://www.cifraclub.com.br/misfits/saturday-night/simplificada.html?instrument=ukulele) | 🟩🟩🟩⬜⬜ **60%** |
 | What a Wonderful World | Ramones | [Cifra Club](https://www.cifraclub.com.br/ramones/wonderful-world/#tabs=false&instrument=ukulele&key=7) | 🟩🟩⬜⬜⬜ **40%** |
 | Numb | Linkin Park | [Ukutabs](https://ukutabs.com/l/linkin-park/numb/) |
 | Last Kiss | Pearl Jam | [Cifra Club](https://www.cifraclub.com.br/pearl-jam/last-kiss/#tabs=false&instrument=ukulele) |
